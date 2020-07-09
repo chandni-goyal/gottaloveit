@@ -60,7 +60,7 @@ $(function() {
                             }
                             if(newHash == 'https://shop.gottaloveit.co'){
                                 window.open('https://shop.gottaloveit.co', '_blank');
-                                window.location = '/';
+                                window.location = '/index.html';
                             }
 
                             document.title = $(this).text();
